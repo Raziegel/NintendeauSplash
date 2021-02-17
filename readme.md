@@ -1,5 +1,5 @@
 # Projet Embarqué Console NintendeauSplash EPSI 2020/2021 I2
-par : Auvray Baptiste, Théophane Choisnet, Thomas Le Floch, Yoann Mazza 
+par : Baptiste Auvray, Théophane Choisnet, Thomas Le Floch, Yoann Mazza 
 
 Description du projet:
 
